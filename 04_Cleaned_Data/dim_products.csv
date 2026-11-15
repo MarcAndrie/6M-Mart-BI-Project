@@ -1,0 +1,121 @@
+product_id,product_name,category,selling_price,unit_cost,supplier_id
+PRD001,Premium Rice 5kg,Groceries,275.41,187.74,SUP002
+PRD002,Regular Rice 5kg,Groceries,250.13,144.64,SUP003
+PRD003,Jasmine Rice 2kg,Groceries,341.96,266.16,SUP003
+PRD004,Brown Rice 2kg,Groceries,62.28,42.67,SUP003
+PRD005,All-Purpose Flour 1kg,Groceries,142.36,117.88,SUP003
+PRD006,White Sugar 1kg,Groceries,291.51,199.11,SUP002
+PRD007,Brown Sugar 1kg,Groceries,94.99,68.05,SUP003
+PRD008,Cooking Oil 1L,Groceries,293.12,216.76,SUP001
+PRD009,Soy Sauce 500ml,Groceries,270.17,177.33,SUP001
+PRD010,Vinegar 500ml,Groceries,314.73,246.6,SUP003
+PRD011,Fish Sauce 500ml,Groceries,84.23,58.12,SUP002
+PRD012,Canned Tuna,Groceries,70.92,53.54,SUP001
+PRD013,Canned Sardines,Groceries,265.77,223.31,SUP002
+PRD014,Instant Noodles,Groceries,142.25,98.28,SUP001
+PRD015,Spaghetti Pasta 500g,Groceries,82.53,48.61,SUP003
+PRD016,Tomato Sauce 500g,Groceries,94.88,71.25,SUP002
+PRD017,Peanut Butter 350g,Groceries,164.26,131.38,SUP002
+PRD018,Oatmeal 500g,Groceries,123.08,98.42,SUP003
+PRD019,Coffee 200g,Groceries,285.57,190.26,SUP003
+PRD020,Chocolate Powder 300g,Groceries,245.22,145.15,SUP001
+PRD021,Bottled Water 500ml,Beverages,47.98,26.49,SUP006
+PRD022,Bottled Water 1L,Beverages,124.7,94.97,SUP006
+PRD023,Cola 1.5L,Beverages,143.82,98.9,SUP005
+PRD024,Cola 500ml,Beverages,38.07,22.25,SUP005
+PRD025,Lemon Soda 1.5L,Beverages,125.29,86.62,SUP006
+PRD026,Orange Juice 1L,Beverages,141.22,104.56,SUP005
+PRD027,Apple Juice 1L,Beverages,106.34,76.33,SUP006
+PRD028,Iced Tea 500ml,Beverages,20.08,13.67,SUP004
+PRD029,Energy Drink 250ml,Beverages,50.41,33.9,SUP006
+PRD030,Sports Drink 500ml,Beverages,53.6,30.42,SUP006
+PRD031,Instant Coffee Drink,Beverages,61.43,39.2,SUP005
+PRD032,Powdered Juice 500g,Beverages,106.91,83.94,SUP005
+PRD033,Green Tea 500ml,Beverages,124.61,83.73,SUP005
+PRD034,Milk Tea Drink 500ml,Beverages,42.55,23.69,SUP006
+PRD035,Chocolate Drink 250ml,Beverages,29.86,22.89,SUP006
+PRD036,Mango Juice 1L,Beverages,41.61,29.14,SUP005
+PRD037,Coconut Water 500ml,Beverages,40.13,30.45,SUP005
+PRD038,Root Beer 1.5L,Beverages,77.87,49.87,SUP005
+PRD039,Sparkling Water 500ml,Beverages,119.0,78.37,SUP006
+PRD040,Lemonade 1L,Beverages,34.47,28.91,SUP004
+PRD041,Fresh Milk 1L,Dairy,257.6,195.75,SUP007
+PRD042,Fresh Milk 500ml,Dairy,272.45,213.5,SUP007
+PRD043,Chocolate Milk 1L,Dairy,210.64,144.25,SUP008
+PRD044,Condensed Milk 390g,Dairy,58.62,48.11,SUP007
+PRD045,Evaporated Milk 370ml,Dairy,146.67,89.57,SUP008
+PRD046,Cheddar Cheese 165g,Dairy,176.91,106.68,SUP007
+PRD047,Processed Cheese 200g,Dairy,244.87,190.4,SUP007
+PRD048,Butter 225g,Dairy,140.86,103.98,SUP008
+PRD049,Margarine 250g,Dairy,178.1,132.68,SUP008
+PRD050,Plain Yogurt 500g,Dairy,136.87,76.99,SUP007
+PRD051,Strawberry Yogurt 500g,Dairy,156.03,101.26,SUP008
+PRD052,Greek Yogurt 400g,Dairy,60.33,43.82,SUP007
+PRD053,Vanilla Ice Cream 1L,Dairy,76.8,63.55,SUP008
+PRD054,Chocolate Ice Cream 1L,Dairy,119.98,87.26,SUP008
+PRD055,Whipped Cream 250ml,Dairy,40.59,34.0,SUP007
+PRD056,Cream Cheese 200g,Dairy,226.77,130.35,SUP007
+PRD057,UHT Milk 1L,Dairy,154.23,107.53,SUP007
+PRD058,Powdered Milk 300g,Dairy,175.07,121.16,SUP008
+PRD059,Sour Cream 250g,Dairy,100.41,65.21,SUP008
+PRD060,Milk Powder Sachet,Dairy,142.53,79.32,SUP008
+PRD061,Banana 1kg,Fresh Produce,167.86,137.45,SUP010
+PRD062,Apple 1kg,Fresh Produce,117.5,68.45,SUP009
+PRD063,Orange 1kg,Fresh Produce,139.36,88.41,SUP009
+PRD064,Mango 1kg,Fresh Produce,149.49,116.69,SUP010
+PRD065,Papaya 1kg,Fresh Produce,34.93,28.81,SUP010
+PRD066,Watermelon 1kg,Fresh Produce,21.92,15.7,SUP009
+PRD067,Pineapple 1pc,Fresh Produce,83.62,66.81,SUP009
+PRD068,Tomato 1kg,Fresh Produce,73.67,61.58,SUP010
+PRD069,Potato 1kg,Fresh Produce,68.82,48.48,SUP010
+PRD070,Onion 1kg,Fresh Produce,188.17,112.79,SUP009
+PRD071,Garlic 250g,Fresh Produce,23.31,15.86,SUP010
+PRD072,Carrot 1kg,Fresh Produce,179.96,139.39,SUP010
+PRD073,Cabbage 1pc,Fresh Produce,179.8,147.08,SUP009
+PRD074,Eggplant 1kg,Fresh Produce,73.45,57.41,SUP010
+PRD075,Cucumber 1kg,Fresh Produce,137.41,90.98,SUP010
+PRD076,Lettuce 1pc,Fresh Produce,153.16,96.3,SUP009
+PRD077,Bell Pepper 500g,Fresh Produce,188.31,117.18,SUP009
+PRD078,Calamansi 500g,Fresh Produce,168.76,100.58,SUP009
+PRD079,Sweet Potato 1kg,Fresh Produce,48.16,35.15,SUP010
+PRD080,Ginger 250g,Fresh Produce,51.34,33.02,SUP010
+PRD081,Bath Soap 135g,Personal Care,277.66,233.66,SUP011
+PRD082,Shampoo 340ml,Personal Care,71.77,39.77,SUP012
+PRD083,Conditioner 340ml,Personal Care,99.64,58.74,SUP011
+PRD084,Toothpaste 150g,Personal Care,64.6,45.34,SUP012
+PRD085,Toothbrush Medium,Personal Care,250.64,181.55,SUP011
+PRD086,Mouthwash 500ml,Personal Care,286.34,218.94,SUP011
+PRD087,Facial Cleanser 100ml,Personal Care,265.17,156.27,SUP011
+PRD088,Body Lotion 400ml,Personal Care,326.46,218.49,SUP011
+PRD089,Deodorant Roll-On,Personal Care,122.81,85.55,SUP012
+PRD090,Deodorant Spray,Personal Care,335.58,213.41,SUP012
+PRD091,Facial Tissue Pack,Personal Care,325.56,181.49,SUP012
+PRD092,Cotton Buds 200pcs,Personal Care,231.04,134.41,SUP012
+PRD093,Feminine Wash 150ml,Personal Care,70.61,47.71,SUP011
+PRD094,Hand Sanitizer 250ml,Personal Care,218.71,181.51,SUP012
+PRD095,Sunscreen 100ml,Personal Care,286.42,197.69,SUP012
+PRD096,Baby Powder 200g,Personal Care,30.8,17.95,SUP012
+PRD097,Hair Gel 150g,Personal Care,294.56,232.42,SUP011
+PRD098,Disposable Razor,Personal Care,197.5,144.53,SUP011
+PRD099,Dental Floss 50m,Personal Care,307.02,224.41,SUP011
+PRD100,Liquid Hand Soap 500ml,Personal Care,146.61,99.37,SUP011
+PRD101,Laundry Detergent 1kg,Household Essentials,202.54,164.11,SUP013
+PRD102,Fabric Conditioner 1L,Household Essentials,89.4,55.52,SUP014
+PRD103,Dishwashing Liquid 500ml,Household Essentials,228.88,181.95,SUP015
+PRD104,Bleach 1L,Household Essentials,38.64,28.14,SUP013
+PRD105,Floor Cleaner 1L,Household Essentials,60.93,48.59,SUP013
+PRD106,Glass Cleaner 500ml,Household Essentials,60.28,49.81,SUP013
+PRD107,Toilet Cleaner 500ml,Household Essentials,66.35,42.16,SUP014
+PRD108,Garbage Bags 20pcs,Household Essentials,52.34,29.12,SUP013
+PRD109,Paper Towels 2 Rolls,Household Essentials,35.51,21.39,SUP015
+PRD110,Toilet Tissue 4 Rolls,Household Essentials,185.52,139.92,SUP013
+PRD111,Sponge Pack 3pcs,Household Essentials,130.22,84.04,SUP015
+PRD112,Scrub Pad 3pcs,Household Essentials,265.0,213.41,SUP014
+PRD113,Air Freshener 300ml,Household Essentials,32.17,19.45,SUP015
+PRD114,Insect Spray 500ml,Household Essentials,89.83,64.8,SUP013
+PRD115,Laundry Bar Soap,Household Essentials,136.55,77.12,SUP013
+PRD116,Cloth Hanger 5pcs,Household Essentials,166.65,96.74,SUP014
+PRD117,Food Storage Container,Household Essentials,253.37,143.3,SUP014
+PRD118,Aluminum Foil 10m,Household Essentials,47.75,38.35,SUP015
+PRD119,Plastic Wrap 30m,Household Essentials,272.74,230.16,SUP013
+PRD120,Microfiber Cleaning Cloth,Household Essentials,238.25,176.96,SUP015

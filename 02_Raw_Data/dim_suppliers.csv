@@ -1,0 +1,16 @@
+﻿supplier_id,supplier_name,supplier_category
+SUP001,Luzon Grocery Distributors,Groceries
+SUP002,Prime Food Trading,Groceries
+SUP003,Metro Consumer Goods Supply,Groceries
+SUP004,Refresh Beverage Trading,Beverages
+SUP005,Golden Drinks Distribution,Beverages
+SUP006,Pacific Beverage Supply,Beverages
+SUP007,Fresh Dairy Products Supply,Dairy
+SUP008,Milky Way Food Distributors,Dairy
+SUP009,Green Harvest Trading,Fresh Produce
+SUP010,Farm Fresh Distributors,Fresh Produce
+SUP011,CarePlus Distribution,Personal Care
+SUP012,Daily Essentials Trading,Personal Care
+SUP013,Home Needs Wholesale,Household Essentials
+SUP014,Reliable Household Supply,Household Essentials
+SUP015,Practical Living Distributors,Household Essentials
