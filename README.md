@@ -58,17 +58,18 @@ The project contains eight interconnected datasets with a combined total of **22
 
 The dataset covers sales, products, branches, suppliers, promotions, inventory snapshots, and product returns.
 
-## Power BI Dashboard
+## Power BI Dashboard Contents
 
 The interactive report contains seven pages:
 
 1. Executive Overview
 2. Branch Performance
 3. Product Performance
-4. Promotion Analysis
-5. Inventory Analysis
-6. Returns & Refunds Analysis
-7. Business Insights & Opportunities
+4. Promotion Analysis 2024
+5. Promotion Analysis 2025
+6. Inventory Analysis
+7. Returns & Refunds Analysis
+8. Business Insights & Opportunities
 
 ## Power BI Dashboard
 
